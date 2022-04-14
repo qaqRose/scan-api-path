@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.qaqrose.scanapipath.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.qaqrose.scanapipath.MyBundle
 
 class MyApplicationService {
 

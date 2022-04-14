@@ -1,1 +1,1 @@
-rootProject.name = "IntelliJ Platform Plugin Template"
+rootProject.name = "scan-api-path"
